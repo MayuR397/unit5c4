@@ -43,3 +43,9 @@ button {
 .nav{
   background-color: green;
 }
+.nav>button{
+  border: none;
+  border-radius: 5px;
+  margin-left: 10px;
+  cursor: pointer;
+}
